@@ -1,28 +1,44 @@
 ## \#30daymapchallange_2023
 
-My maps of \#30DayMapChallange 2023:
+My maps of **[\#30DayMapChallange 2023](https://30daymapchallenge.com/)**:
+
+![image](https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/20c7c812-1ca3-48dc-8c66-b5e53e8f5e50)
+
 
 ## Day 01 \| Points
 
-**Tina! 50th Anniversary tour** Last Tina Turner tour in North America in 2008, places, dates, attendes and revenue
+**Tina! 50th Anniversary tour** Last Tina Turner tour in North America in 2008, places, dates, attendes and revenue.
+
 <img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/8843c7f0-34c0-4cdf-81e3-d4efdd472119" width="600">
 
 ## Day 02 \| Lines
 **Routes to the Puigmal** The lines indicate different routes to the top of Puigmal. Colors by height. Data from Wikilock.
+
 <img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/4fc7538a-7a2f-4e8b-9694-5b06f9426c85" width="600">
 
 ## Day 03 \| Polygons
 **Barcelona public transport** Number of bus stops, stations, taxi stops and bike racks of Barcelona public transport by neighbourhood. Data from Open Data BCN.
+
 <img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/4adccf86-2cad-40d0-824e-2082c4bdf15c" width="400">
 
 
 ## Day 04 \| Bad map
 **Universities** Number of university headquaters per city. Wrong symbol (category -> graduate). Reversed scale color for density.
+
 <img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/41e1c28d-c693-4eb7-94e4-01fd6836d7d1" width="600">
 
 ## Day 06 \| Asia
-**Energy** Acces to electricity and renewable energy consumption
+**Energy** Acces to electricity and renewable energy consumption.
+
 <img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/911d9ae4-d812-49b7-a40f-6117111179bb" width="600">
+
+## Day 07 \| Navigation
+**Barcelona Bicing** For this map I present an application made with python that gives you directions to nearest bike racks of the bike sharing service in Barcelona. 
+[https://github.com/tuskjant/bici_bcn_status](https://github.com/tuskjant/bici_bcn_status)
+
+
+https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/78bee533-5c43-43f1-b2f3-35a29f006044
+
 
 
 

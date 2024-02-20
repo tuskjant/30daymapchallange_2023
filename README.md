@@ -41,6 +41,7 @@ My maps of **[\#30DayMapChallange 2023](https://30daymapchallenge.com/)**:
 
 ## Day 08 \| Africa
 **World Heritage Sites** in Africa. 
+
 <img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/6d4207e5-4332-4b3a-a7cc-513760f03d19" width="600">
 
 

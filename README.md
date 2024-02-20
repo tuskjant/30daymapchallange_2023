@@ -2,7 +2,8 @@
 
 My maps of **[\#30DayMapChallange 2023](https://30daymapchallenge.com/)**:
 
-![image](https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/20c7c812-1ca3-48dc-8c66-b5e53e8f5e50)
+<img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/20c7c812-1ca3-48dc-8c66-b5e53e8f5e50" width="400">
+
 
 
 ## Day 01 \| Points
@@ -36,7 +37,7 @@ My maps of **[\#30DayMapChallange 2023](https://30daymapchallenge.com/)**:
 **Barcelona Bicing** For this map I present an application made with python that gives you directions to nearest bike racks of the bike sharing service in Barcelona. 
 [https://github.com/tuskjant/bici_bcn_status](https://github.com/tuskjant/bici_bcn_status)
 
-<img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/4098b23f-db7b-4a5a-b7da-4abe325c1e39" width="600">
+<img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/5de20dc8-a89f-4564-8c25-345188514b63" width="600">
 
 
 

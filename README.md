@@ -1,6 +1,7 @@
 ## \#30daymapchallange_2023
 
 My maps of **[\#30DayMapChallange 2023](https://30daymapchallenge.com/)**:
+*I have done these maps outside of the deadline and time, just for practice.*
 
 <img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/20c7c812-1ca3-48dc-8c66-b5e53e8f5e50" width="400">
 
@@ -44,8 +45,10 @@ My maps of **[\#30DayMapChallange 2023](https://30daymapchallenge.com/)**:
 
 <img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/6d4207e5-4332-4b3a-a7cc-513760f03d19" width="600">
 
+## Day 09 \| Hexagons
+**Homes for tourist use in Barcelona** Use of hexagons as area unit.
 
-
+<img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/c01c6bb3-6772-4d27-b8a0-b3363b1679cc" width="600">
 
 
 

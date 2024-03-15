@@ -48,7 +48,7 @@ My maps of **[\#30DayMapChallange 2023](https://30daymapchallenge.com/)**:
 ## Day 09 \| Hexagons
 **Homes for tourist use in Barcelona** Use of hexagons as area unit.
 
-<img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/c01c6bb3-6772-4d27-b8a0-b3363b1679cc" width="600">
+<img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/7ac13c51-23af-48a2-8eda-631c4c82c715" width="600">
 
 
 

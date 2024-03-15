@@ -16,7 +16,7 @@ My maps of **[\#30DayMapChallange 2023](https://30daymapchallenge.com/)**:
 ## Day 02 \| Lines
 **Routes to the Puigmal** The lines indicate different routes to the top of Puigmal. Colors by height. Data from Wikilock.
 
-<img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/4fc7538a-7a2f-4e8b-9694-5b06f9426c85" width="600">
+<img src="https://github.com/tuskjant/30daymapchallange_2023/assets/151870795/c0de1d10-b508-4bdd-beb0-3b9ab48a32d0" width="600">
 
 ## Day 03 \| Polygons
 **Barcelona public transport** Number of bus stops, stations, taxi stops and bike racks of Barcelona public transport by neighbourhood. Data from Open Data BCN.
